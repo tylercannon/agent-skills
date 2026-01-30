@@ -16,3 +16,11 @@ Update all of the dependencies in an Elixir project.
 - "run mix hex.outdated"
 - "handle dependency version bumps and breaking changes"
 - "update mix.exs dependencies"
+
+### asdf-runtime-version-updater
+
+Update the runtime versions in a project.
+
+**Use when:**
+- "update runtime versions in a project"
+- "update .tool-versions"
